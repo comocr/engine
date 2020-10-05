@@ -1,6 +1,6 @@
 **/Archive
-*vcxproj.user
-*vcxproj.filters
-*.aps
+/Engine/*.vcxproj.user
+/Engine/*.vcxproj.filters
+/Engine/*.aps
 /Installer
 /Lang
